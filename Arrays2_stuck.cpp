@@ -1,4 +1,5 @@
 /*
+PART A
 12. Grade Book
 A teacher has five students who have taken four tests. The teacher uses the following
 grading scale to assign a letter grade to a student, based on the average of his or her
@@ -16,6 +17,11 @@ The program should allow the user to enter each student’s name and his or her 
 test scores. It should then calculate and display each student’s average test score and a
 letter grade based on the average.
 Input Validation: Do not accept test scores less than 0 or greater than 100.
+
+PART B
+13. Grade Book Modification
+Modify the grade book application in Programming Challenge 13 so it drops each student’s
+lowest score when determining the test score averages and letter grades.
 */
 
 #include <iostream>
