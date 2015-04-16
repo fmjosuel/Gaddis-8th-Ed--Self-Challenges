@@ -1,3 +1,7 @@
+// Author: Josuel MF
+// This program uses features of C++ 11 to add up numbers from an array. 
+// Note: This cannot be done in C++ 98 and other diverse C++ versions.
+
 #include <iostream>
 
 using namespace std;
